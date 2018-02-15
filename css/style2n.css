@@ -60,14 +60,7 @@ img{
     float: right;
     display:inline;
   }
-  footer {
-    font-size:20px;
-    margin-left:30px;
-    margin-bottom:0 auto;
-    background-color:gray;
-    color:black;
-    font-weight:bold;
-}
+
 img{
   max-width:100%;
   margin-top:-35px;
