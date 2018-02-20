@@ -45,7 +45,7 @@ img{
 .topnav .icon {
   display: none;
 }
-    footer {
+footer {
     font-size:15px;
     text-align:center;
     margin-left:0;
@@ -95,5 +95,8 @@ h1{
     font-size:20px;}
 p{
   font-size:40px;}
+footer{
+  font-size:20px;
+}  
 } 
  
