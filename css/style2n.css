@@ -70,7 +70,7 @@ footer{
   font-size:20px;
 }
 p{
-  font-size:20px;
+  font-size:25px;
 
 @media screen and (max-width: 600px) {
   .topnav.responsive {position: relative;}
