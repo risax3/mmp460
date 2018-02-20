@@ -9,7 +9,7 @@
 .special{
   margin-left:10px;
   text-align:center;
-  font-size:25px;
+  font-size:35px;
 }
 li{
   list-style:none;
@@ -97,6 +97,4 @@ img{
     display: block;
     text-align: left;
     }
-    p{
-    font-size:30px;}
   }
