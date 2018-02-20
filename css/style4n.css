@@ -97,4 +97,9 @@ img{
     display: block;
     text-align: left;
     }
+    .special{
+  margin-left:10px;
+  text-align:center;
+  font-size:50px;}
+}
   }
