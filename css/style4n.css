@@ -2,12 +2,12 @@
     margin-top:-10px
 }
 .title{
-  text-align:center;
+  text-align:left;
   font-weight:bold;
   margin-top:0px;
 }
 .special{
-  margin-left:10px;
+  margin-left:0px;
   text-align:left;
   font-size:20px;
 }
@@ -63,7 +63,7 @@ footer{
   }
 .special{
   margin-left:10px;
-  text-align:center;
+  text-align:left;
   font-size:15px;
 }
 footer{
