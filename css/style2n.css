@@ -1,7 +1,9 @@
 body{
     background-color:#a52138;}
 .container{
-    background-color:#a52138;}
+    background-color:#a52138;
+    width:100%;
+    height:0 auto;}
 h2{
     padding:18px;
     margin-top:80px;
