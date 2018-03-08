@@ -15,7 +15,6 @@ h2{
   font-family: 'Lato', sans-serif;  
 }
 footer{
-    margin-bottom:0px;
     font-size:15px;
     position:fixed;
     height:0 auto;
@@ -67,7 +66,7 @@ footer{
   font-family: 'Lato', sans-serif;  
 }
 footer{
-    margin-bottom:0px;
+    margin-bottom:0 auto;
     font-size:15px;
     position:fixed;
     height:0 auto;
