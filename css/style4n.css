@@ -17,7 +17,7 @@ h2{
 footer{
     font-size:20px;
     position:fixed;
-    padding:25px;
+    height:150px;
     width:100%;
     text-align:center;
     margin-left:auto;
@@ -66,10 +66,8 @@ footer{
   font-family: 'Lato', sans-serif;  
 }
 footer{
-    margin-bottom:0 auto;
     font-size:15px;
     position:fixed;
-    height:0 auto;
     width:100%;}
 img{
   max-width:100%;
