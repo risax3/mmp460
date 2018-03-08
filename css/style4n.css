@@ -17,7 +17,7 @@ h2{
 footer{
     font-size:20px;
     position:fixed;
-    bottom:80%;
+    bottom:0;
     width:100%;
     text-align:center;
     margin-left:auto;
