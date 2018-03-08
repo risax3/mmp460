@@ -17,11 +17,10 @@ h2{
 footer{
     font-size:20px;
     position:fixed;
-    bottom:100%;
+    bottom:80%;
     width:100%;
     text-align:center;
     margin-left:auto;
-    margin-bottom:30px;
     background-color:gray;
     color:black;
     font-weight:bold;
