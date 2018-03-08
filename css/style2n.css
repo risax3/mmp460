@@ -4,7 +4,7 @@ h2{
     margin-top:80px;
     font-size:25px;
     text-align:center;
-    font-family:arial;
+    font-family: 'Karma', serif;
     color:blue;}
 p{
     padding:25px;
@@ -12,6 +12,7 @@ p{
     text-align:center;
     font-size:30px;
     margin-top:0px;
+    font-family: 'Saira Condensed', sans-serif;
 }
 img{
   max-width:100%;
