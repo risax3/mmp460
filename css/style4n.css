@@ -1,3 +1,5 @@
+body{
+    background-color:#add8e6;}
 h2{
     text-align:center;}
 .navbar-brand{
@@ -8,7 +10,7 @@ h2{
   font-weight:bold;
   margin-top:0px;
   font-size:20px;
-  font-family: 'Merriweather', serif;  
+  font-family: 'Merriweather', serif;
 }
 .special{
   margin-left:20px;
