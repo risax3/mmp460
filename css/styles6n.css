@@ -26,6 +26,7 @@ p{
     padding:0;
     margin-top:0px;
     font-family: 'Karma', serif;
+    border:1px solid black;
 }
 img{
   width:376px;
