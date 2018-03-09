@@ -1,7 +1,10 @@
 body{
    }
 h2{
-    text-align:center;}
+    text-align:center;
+    background-color:#add8e6; 
+    width:180px;
+    border: 1px solid black;  }
 .navbar-brand{
     margin-top:-10px
 }
