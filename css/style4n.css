@@ -4,14 +4,14 @@ h2{
     margin-top:-10px
 }
 .title{
-  margin-left:29px;
+  margin-left:0px;
   font-weight:bold;
   margin-top:0px;
   font-size:20px;
   font-family: 'Merriweather' serif;  
 }
 .special{
-  margin-left:0px;
+  margin-left:20px;
   text-align:left;
   font-size:20px;
   font-family: 'Lato', sans-serif;  
@@ -63,7 +63,7 @@ footer{
     display:inline;
   }
 .special{
-  margin-left:10px;
+  margin-left:0px;
   text-align:left;
   font-size:13px;
   font-family: 'Lato', sans-serif;  
@@ -98,7 +98,7 @@ img{
     text-align: left;
     }
 .special{
-  margin-left:10px;
+  margin-left:0px;
   text-align:left;
   font-size:13px;
   font-family: 'Lato', sans-serif;}
