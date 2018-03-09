@@ -7,12 +7,12 @@ h2{
   margin-left:29px;
   font-weight:bold;
   margin-top:0px;
-  font-size:15px;
+  font-size:20px;
 }
 .special{
   margin-left:0px;
   text-align:left;
-  font-size:13px;
+  font-size:15px;
   font-family: 'Lato', sans-serif;  
 }
 footer{
@@ -62,7 +62,7 @@ footer{
 .special{
   margin-left:10px;
   text-align:left;
-  font-size:20px;
+  font-size:13px;
   font-family: 'Lato', sans-serif;  
 }
 footer{
@@ -96,6 +96,6 @@ img{
 .special{
   margin-left:10px;
   text-align:left;
-  font-size:20px;
+  font-size:13px;
   font-family: 'Lato', sans-serif;}
   }
