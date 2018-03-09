@@ -12,7 +12,8 @@ h2{
   font-size:20px;
   font-family: 'Merriweather', serif;
   background-color:#add8e6; 
-  width:180px; 
+  width:180px;
+  border: 1px solid black; 
 }
 .special{
   margin-left:20px;
